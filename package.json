@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/turtlecoin-nodes-json.git"
+    "url": "git+https://github.com/arqtras/turtlecoin-nodes-json.git"
   },
   "keywords": [
     "turtlecoin",
@@ -21,7 +21,7 @@
   "author": "The TurtleCoin Developers",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/turtlecoin/turtlecoin-nodes-json/issues"
+    "url": "https://github.com/arqtras/turtlecoin-nodes-json/issues"
   },
-  "homepage": "https://github.com/turtlecoin/turtlecoin-nodes-json#readme"
+  "homepage": "https://github.com/arqtras/turtlecoin-nodes-json#readme"
 }
