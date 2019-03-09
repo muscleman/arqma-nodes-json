@@ -1,10 +1,3 @@
 {
-  "nodes": [
-    {
-      "name": "'arqma.smartcoinpool.net' public node",
-      "url": "arqma.smartcoinpool.net",
-      "port": 39994,
-      "ssl": false
-    }
-  ]
+  "nodes": []
 }
