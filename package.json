@@ -1,8 +1,8 @@
 {
-  "name": "turtlecoin-nodes-json",
+  "name": "arqma-nodes-json",
   "version": "0.0.1",
   "description": "json list of public daemons",
-  "main": "turtlecoin-nodes.json",
+  "main": "arqma-nodes.json",
   "directories": {
     "test": "tests"
   },
@@ -14,14 +14,14 @@
     "url": "git+https://github.com/arqtras/turtlecoin-nodes-json.git"
   },
   "keywords": [
-    "turtlecoin",
+    "arqma",
     "public",
     "nodes"
   ],
   "author": "The TurtleCoin Developers",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/arqtras/turtlecoin-nodes-json/issues"
+    "url": "https://github.com/muscleman/arqma-nodes-json/issues"
   },
-  "homepage": "https://github.com/arqtras/turtlecoin-nodes-json#readme"
+  "homepage": "https://github.com/muscleman/arqma-nodes-json#readme"
 }
